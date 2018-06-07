@@ -8,7 +8,7 @@ K-Means Clustering implementation using Python and OpenCV. See the uploaded PDF 
 
 ## Usage
 
-***Performing Clustering***
+***Perform Clustering on Image Set***
 
 	main.py <image directory> <number of clusters>
 
